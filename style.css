@@ -285,6 +285,8 @@ section {
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
+    flex-wrap: wrap;
+
 }
 
 .about-details-container {
@@ -404,6 +406,7 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 70vh;
+    margin-top: 25rem;
 }
 
 .contact-info-upper-container {
