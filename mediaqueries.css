@@ -125,8 +125,7 @@
     }
 
     .section__pic-container {
-        width: 275px;
-        height: 275px;
+
         margin: 0 auto 2rem;
     }
 
@@ -306,8 +305,8 @@
     }
 
     .section__pic-container {
-        width: auto;
-        height: 45vw;
+        width: 45vw;
+        height: 45vh;
         justify-content: center;
     }
 
