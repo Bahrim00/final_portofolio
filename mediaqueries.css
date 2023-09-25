@@ -338,6 +338,13 @@
 }
 
 @media screen and (max-width:500px) {
+
+    div.section__pic-container {
+        width: 100%;
+        margin: auto;
+        object-fit: cover;
+    }
+
     #about {
         margin: 1rem auto;
         padding: 0;
