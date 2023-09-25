@@ -375,6 +375,7 @@ article .icon {
 
 #projects {
     position: relative;
+    margin-bottom: 100rem;
 }
 
 .color-container {
@@ -425,7 +426,7 @@ article .icon {
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
-    margin: 1rem;
+    margin: 1rem
 }
 
 .contact-info-container p {
