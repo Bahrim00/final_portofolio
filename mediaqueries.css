@@ -339,10 +339,20 @@
 
 @media screen and (max-width:500px) {
     #about {
-        margin: auto;
+        margin: 1rem auto;
         padding: 0;
         height: 40rem;
-        width: 30rem;
+        width: auto;
+    }
+
+    section#experience {
+        margin: auto;
+        padding: 1rem;
+        width: 25rem;
+    }
+
+    .section-container {
+        margin-top: 4rem;
     }
 
     div.details-container.color-container {
@@ -350,12 +360,12 @@
     }
 
     #contact {
-        margin: -160rem 0 0 5rem;
+        margin: -140rem auto;
         padding: 0;
     }
 
     footer {
-        margin: -165rem 0 0 3rem;
+        margin: -145rem auto;
         padding: 0;
     }
 }
