@@ -7,6 +7,7 @@
     .about-containers {
         flex-wrap: wrap;
     }
+
 }
 
 
@@ -51,6 +52,8 @@
     .about-containers {
         margin-top: 0;
     }
+
+
 }
 
 @media screen and (max-width: 600px) {
@@ -120,4 +123,21 @@
     .text-container {
         text-align: justify;
     }
+
+    #contact {
+        position: absolute;
+        top: 370rem;
+        left: 3rem;
+    }
+
+    footer {
+        position: absolute;
+        top: 420rem;
+    }
+
+    html {
+        height: 100rem;
+    }
+
+
 }
