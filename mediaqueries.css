@@ -305,7 +305,7 @@
     }
 
     .section__pic-container {
-        width: 45vw;
+        width: fit-content;
         height: 45vh;
         justify-content: center;
     }
