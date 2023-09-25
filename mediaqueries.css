@@ -124,8 +124,17 @@
         display: none;
     }
 
-    .section__pic-container {
+    div.section__pic-container {
         margin: auto;
+    }
+
+    .profile_pic {
+        width: 20rem;
+        margin: 2rem auto;
+    }
+
+    .icon {
+        width: auto;
     }
 
 
